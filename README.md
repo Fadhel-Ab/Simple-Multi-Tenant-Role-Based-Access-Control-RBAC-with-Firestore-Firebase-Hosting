@@ -6,7 +6,7 @@ First, clone repo, then navigate to the file,install npm, then run the developme
 
 ```bash
 
-git clone <repo-url>
+git clone https://github.com/Fadhel-Ab/Simple-Multi-Tenant-Role-Based-Access-Control-RBAC-with-Firestore-Firebase-Hosting.git
 
 cd multi_tenant_role_based_c
 
